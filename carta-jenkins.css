@@ -1,3 +1,5 @@
 #main-panel {
-    background-image: url(https://raw.githubusercontent.com/magusd/jenkins-background/main/background.png);
+    background-image: url(https://www.magusd.com/jenkins-background/background.png);
+    background-repeat: no-repeat;
+    background-size: auto;
 }
